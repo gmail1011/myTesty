@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
+    compileSdkVersion 22
     buildToolsVersion "23.0.0 rc2"
 
     defaultConfig {
-        applicationId "test.sql.com.myapplication"
-        minSdkVersion 17
-        targetSdkVersion 18
+        applicationId "test.sql.com.cndaxue"
+        minSdkVersion 22
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
