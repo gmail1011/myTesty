@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':login', ':大学物理实验室', ':myapplication2', ':myapplication2'
