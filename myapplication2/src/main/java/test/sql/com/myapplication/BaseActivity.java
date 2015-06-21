@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.view.LayoutInflater;
 
+import com.android.volley.toolbox.RequestFuture;
+
 import test.sql.com.myapplication.manager.ActivityCollector;
 
 /**
